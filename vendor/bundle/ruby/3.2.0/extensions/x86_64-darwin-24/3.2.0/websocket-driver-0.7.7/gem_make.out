@@ -1,0 +1,19 @@
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+/Users/takakusakidaichi/.asdf/installs/ruby/3.2.0/bin/ruby -I /Users/takakusakidaichi/.asdf/installs/ruby/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-hakgm2 sitelibdir\=./.gem.20250313-20634-hakgm2 clean
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-hakgm2 sitelibdir\=./.gem.20250313-20634-hakgm2
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-hakgm2 sitelibdir\=./.gem.20250313-20634-hakgm2 install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20250313-20634-hakgm2
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-hakgm2 sitelibdir\=./.gem.20250313-20634-hakgm2 clean

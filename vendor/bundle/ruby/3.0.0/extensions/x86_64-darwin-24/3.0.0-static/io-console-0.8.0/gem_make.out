@@ -1,0 +1,31 @@
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/io-console-0.8.0/ext/io/console
+/Users/takakusakidaichi/.rbenv/versions/3.0.7/bin/ruby -I /Users/takakusakidaichi/.rbenv/versions/3.0.7/lib/ruby/3.0.0 -r ./siteconf20250313-12317-wyy2sf.rb extconf.rb
+checking for rb_syserr_fail_str(0, Qnil)... yes
+checking for rb_interned_str_cstr()... yes
+checking for rb_io_path()... no
+checking for rb_io_descriptor()... no
+checking for rb_io_get_write_io()... yes
+checking for rb_io_closed_p()... no
+checking for rb_io_open_descriptor()... no
+checking for rb_ractor_local_storage_value_newkey()... yes
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... yes
+checking for rb_io_wait()... yes
+checking for ttyname_r()... yes
+creating Makefile
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= clean
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\=
+compiling console.c
+linking shared-object io/console.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/io-console-0.8.0/ext/io/console
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20250313-12317-aouu11/io

@@ -1,0 +1,17 @@
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/debug-1.10.0/ext/debug
+/Users/takakusakidaichi/.rbenv/versions/3.0.7/bin/ruby -I /Users/takakusakidaichi/.rbenv/versions/3.0.7/lib/ruby/3.0.0 -r ./siteconf20250313-12317-cqb972.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.0.0/gems/debug-1.10.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20250313-12317-5hxllg/debug

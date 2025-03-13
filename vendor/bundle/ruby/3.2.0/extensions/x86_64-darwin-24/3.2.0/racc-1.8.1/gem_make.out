@@ -1,0 +1,19 @@
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/takakusakidaichi/.asdf/installs/ruby/3.2.0/bin/ruby -I /Users/takakusakidaichi/.asdf/installs/ruby/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-gbe3o2 sitelibdir\=./.gem.20250313-20634-gbe3o2 clean
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-gbe3o2 sitelibdir\=./.gem.20250313-20634-gbe3o2
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-gbe3o2 sitelibdir\=./.gem.20250313-20634-gbe3o2 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250313-20634-gbe3o2/racc
+
+current directory: /Users/takakusakidaichi/Desktop/works/tech_academy/daily_report_system/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250313-20634-gbe3o2 sitelibdir\=./.gem.20250313-20634-gbe3o2 clean
